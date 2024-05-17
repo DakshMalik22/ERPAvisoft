@@ -4,140 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143e3adc-13a9-40e8-a124-b620917ae7f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/erp-frontend/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/.vercel/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/.vercel/project.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/HRLogin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/crm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/crmLogin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/ems.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/emsLogin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/erp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/erp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/features.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/hrm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/assets/modules_bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/EmpDashHero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/EmpNavigation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/EmpTasks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/Features.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/Modules.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/pages/CrmLogin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/pages/EmsDashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/pages/EmsLogin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/pages/HrmLogin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/pages/Landing.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/store/store.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/store/themeReducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/src/tests/main.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/vite.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-frontend/vitest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/configurations/ObjectMapperConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/DepartmentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/HRController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/LeavesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/ProjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/SalaryStructureController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/ClientDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/DepartmentDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/EmployeeDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/ProjectDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Asset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/ExceptionMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/HR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Leaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/SalaryPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/SalaryStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/entities/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptionHandler/ProjectExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptionHandler/RestResponseEntityExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/ClientNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/HRNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/IdNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/LeavesNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/SalaryStructureNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/exceptions/TaskNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/DepartmentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/HRRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/LeavesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/ProjectRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/SalaryStructureRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/ClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/HRService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/LeavesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/ProjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/SalaryStructureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/servicesInter/DepartmentServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/servicesInter/HRServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/servicesInter/ProjectServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/servicesInter/SalaryStructureServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/utils/MyResponseGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/ClientControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/EmployeeControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/LeavesControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/ProjectControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/entitiesTest/AssetsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/entitiesTest/DepartmentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/entitiesTest/JsonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/entitiesTest/ProjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/repositoriesTest/ClientRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/repositoriesTest/DepartmentRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/repositoriesTest/EmployeeRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/repositoriesTest/LeavesRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/repositoriesTest/ProjectRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/LeavesServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/ClientServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/DepartmentServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/EmployeeServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/ProjectServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/payloads/Client.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/payloads/Leaves.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/payloads/Project.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/src/main/java/com/ERP/ErpApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/ERP/src/test/java/com/ERP/ErpApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/src/main/java/com/ERP/ErpApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ERP/ErpApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP/src/test/java/com/ERP/ErpApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ERP/ErpApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ERP~HEAD" beforeDir="false" afterPath="$PROJECT_DIR$/ERP~HEAD" afterDir="false" />
-    </list>
+    <list default="true" id="143e3adc-13a9-40e8-a124-b620917ae7f8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +42,7 @@
     "Application.ErpApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/New folder/ERP",
     "project.structure.last.edited": "Project",
