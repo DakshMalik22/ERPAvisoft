@@ -5,7 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143e3adc-13a9-40e8-a124-b620917ae7f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/DepartmentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/DepartmentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/SalaryPaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/controllers/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/repositories/SalaryPaymentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/SalaryPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/services/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/servicesInter/SalaryPaymentServiceInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ERP/servicesInter/TaskServiceInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/Reporting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/DepartmentControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/HRControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/SalaryPaymentControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/SalaryStructureControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/controllersTest/TaskControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/repositoriesTest/SalaryStructureRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/DepartmentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/HRServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/ProjectServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/SalaryPaymentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/SalaryStructureServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/services/TaskServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/HRServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/LeavesServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/SalaryPaymentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/SalaryStructureServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ERP/servicesTest/TaskServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/payloads/Department.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +73,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2fXfa9stlsgyXhNAiIfUEdKBnQG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,16 +87,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/91774/Desktop/ERPAvisoft/pom.xml",
+    "last_opened_file_path": "C:/Users/91774/Desktop/ERPAvisoft/src/test/resources/payloads",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91774\Desktop\ERPAvisoft\src\test\resources\payloads" />
+      <recent name="C:\Users\91774\Desktop\ERPAvisoft\src\test\java\com\ERP\servicesTest" />
+      <recent name="C:\Users\91774\Desktop\ERPAvisoft\src\test\java\com\ERP\services" />
+      <recent name="C:\Users\91774\Desktop\ERPAvisoft\src\test\java\com\ERP\controllersTest" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.ERP.configurations" />
+      <recent name="com.ERP" />
       <recent name="com.ERP.servicesTest" />
+      <recent name="com.ERP.repositoriesTest" />
+      <recent name="com.ERP.servicesInter" />
+      <recent name="com.ERP.services" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
