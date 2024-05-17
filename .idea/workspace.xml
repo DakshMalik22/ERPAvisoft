@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143e3adc-13a9-40e8-a124-b620917ae7f8" name="Changes" comment="" />
+    <list default="true" id="143e3adc-13a9-40e8-a124-b620917ae7f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/DepartmentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ERP/dtos/DepartmentDto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ERP.configurations" />
       <recent name="com.ERP.servicesTest" />
     </key>
   </component>
