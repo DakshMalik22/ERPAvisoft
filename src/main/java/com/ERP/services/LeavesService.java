@@ -1,7 +1,6 @@
 package com.ERP.services;
 
 import com.ERP.entities.Leaves;
-import com.ERP.exceptions.IdNotFoundException;
 import com.ERP.exceptions.LeavesNotFound;
 import com.ERP.repositories.EmployeeRepository;
 import com.ERP.repositories.LeavesRepository;

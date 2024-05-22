@@ -1,14 +1,10 @@
 package com.ERP.services;
-import com.ERP.dtos.ProjectDto;
 import com.ERP.entities.Client;
-import com.ERP.entities.Project;
 import com.ERP.exceptions.ClientNotFoundException;
-import com.ERP.exceptions.IdNotFoundException;
 import com.ERP.repositories.ClientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 

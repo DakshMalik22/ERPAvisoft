@@ -1,9 +1,7 @@
 package com.ERP.controllers;
 
 import com.ERP.entities.Client;
-import com.ERP.exceptions.IdNotFoundException;
 import com.ERP.services.ClientService;
-import com.ERP.utils.MyResponseGenerator;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
